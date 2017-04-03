@@ -1,0 +1,6 @@
+E:\УЧЁБА\2 К\2с\ООП\Лабы\Kontrolnaya\Kontrolnaya\bin\Debug\Kontrolnaya.exe.config
+E:\УЧЁБА\2 К\2с\ООП\Лабы\Kontrolnaya\Kontrolnaya\bin\Debug\Kontrolnaya.exe
+E:\УЧЁБА\2 К\2с\ООП\Лабы\Kontrolnaya\Kontrolnaya\bin\Debug\Kontrolnaya.pdb
+E:\УЧЁБА\2 К\2с\ООП\Лабы\Kontrolnaya\Kontrolnaya\obj\Debug\Kontrolnaya.csprojResolveAssemblyReference.cache
+E:\УЧЁБА\2 К\2с\ООП\Лабы\Kontrolnaya\Kontrolnaya\obj\Debug\Kontrolnaya.exe
+E:\УЧЁБА\2 К\2с\ООП\Лабы\Kontrolnaya\Kontrolnaya\obj\Debug\Kontrolnaya.pdb
